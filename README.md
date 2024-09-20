@@ -1,4 +1,4 @@
 # Intro about CC
-Double Cash
-AA Advantage
-Citi
+1. Double Cash
+2. AA Advantage
+3. Citi
